@@ -1,0 +1,5 @@
+VS Code 很新，更新快，已累计大量的开发人员，安装包比较小，强烈推荐  官网下载：https://code.visualstudio.com/
+Web Storm  安装包比较大，但是功能全，推荐
+Hbuilder 国内开发的，纯中文，代码提示比较强点
+sublime
+...
